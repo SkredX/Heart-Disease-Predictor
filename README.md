@@ -34,7 +34,3 @@ This project builds a predictive model to detect heart disease using patient dat
 
 ## Result
 Achieved a high-performing Logistic Regression model with additional ensemble comparisons for improved reliability.
-
----
-**Author**: Beginner ML Enthusiast  
-**Goal**: To understand Logistic Regression deeply and apply it to a real-world medical scenario.
